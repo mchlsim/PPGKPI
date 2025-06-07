@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "com.attendance.app-mergeDebugResources-44:/layout/item_attendance_file.xml",
+        "source": "com.attendance.app-main-47:/layout/item_attendance_file.xml"
+    },
+    {
+        "merged": "com.attendance.app-mergeDebugResources-44:/layout/fragment_scan_qr.xml",
+        "source": "com.attendance.app-main-47:/layout/fragment_scan_qr.xml"
+    },
+    {
+        "merged": "com.attendance.app-mergeDebugResources-44:/layout/dialog_create_attendance_file.xml",
+        "source": "com.attendance.app-main-47:/layout/dialog_create_attendance_file.xml"
+    },
+    {
+        "merged": "com.attendance.app-mergeDebugResources-44:/layout/activity_login.xml",
+        "source": "com.attendance.app-main-47:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.attendance.app-mergeDebugResources-44:/layout/dialog_manual_attendance.xml",
+        "source": "com.attendance.app-main-47:/layout/dialog_manual_attendance.xml"
+    },
+    {
+        "merged": "com.attendance.app-mergeDebugResources-44:/layout/activity_main.xml",
+        "source": "com.attendance.app-main-47:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.attendance.app-mergeDebugResources-44:/layout/item_user.xml",
+        "source": "com.attendance.app-main-47:/layout/item_user.xml"
+    },
+    {
+        "merged": "com.attendance.app-mergeDebugResources-44:/layout/fragment_user_management.xml",
+        "source": "com.attendance.app-main-47:/layout/fragment_user_management.xml"
+    },
+    {
+        "merged": "com.attendance.app-mergeDebugResources-44:/layout/fragment_attendance_files.xml",
+        "source": "com.attendance.app-main-47:/layout/fragment_attendance_files.xml"
+    },
+    {
+        "merged": "com.attendance.app-mergeDebugResources-44:/layout/dialog_user.xml",
+        "source": "com.attendance.app-main-47:/layout/dialog_user.xml"
+    }
+]
