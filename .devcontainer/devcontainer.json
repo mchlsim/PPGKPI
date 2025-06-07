@@ -1,0 +1,21 @@
+{
+    "name": "Android Development",
+    "image": "mcr.microsoft.com/devcontainers/java:17",
+    "features": {
+        "ghcr.io/devcontainers/features/android:1": {
+            "version": "latest"
+        }
+    },
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "vscjava.vscode-java-pack",
+                "vscjava.vscode-gradle",
+                "vscjava.vscode-android"
+            ]
+        }
+    },
+    "forwardPorts": [],
+    "postCreateCommand": "sudo apt-get update && sudo apt-get install -y android-tools-adb",
+    "remoteUser": "vscode"
+} 

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Attendance App</string>
+    
+    <!-- Login Screen -->
+    <string name="login_title">Login</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">Login</string>
+    
+    <!-- Main Screen -->
+    <string name="welcome_message">Welcome, %1$s</string>
+    <string name="btn_check_in">Check In</string>
+    <string name="btn_check_out">Check Out</string>
+    <string name="tab_history">History</string>
+    <string name="tab_profile">Profile</string>
+    
+    <!-- Messages -->
+    <string name="msg_check_in_success">Check in successful</string>
+    <string name="msg_check_out_success">Check out successful</string>
+    <string name="msg_login_failed">Login failed. Please check your credentials.</string>
+</resources> 
